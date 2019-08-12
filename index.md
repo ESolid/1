@@ -2,12 +2,13 @@
 
 More information and documents shall be uploaded gradatim soon.
 
-*WAITING TO BE TRANSLATED
+*SOME CONTENT IS STILL WAITING TO BE TRANSLATED.
 
 # Breif
 
-### 在构造活动过程中，断层界面有时会因摩擦阻碍而不能相对滑动，这个状态称作“断裂面的空间闭锁”。研究闭锁性质对地震预报、地震烈度区划以及深入认识地震的成因等都有极其重要的意义。
-### 本研究拟根据大地测量及地震学等有关数据，处理并获得日本俯冲带震间高精度三维速度场，进一步反演本区域断层面的闭锁性质，深入探讨震间闭锁状态和地震破裂区域的关系，为区域地震灾害性评估提供参考。
+### During tectonic activities, fault interfaces sometimes do not slide relatively due to frictional obstruction. This blockage is called coupling.
+### Studying the coupling properties is extremely important for earthquake prediction, seismic intensity zoning and insight into the very causes of earthquakes.
+### Based on geodetic and seismological data, this study intends to process and obtain high-precision three-dimensional velocity field between the Japan subduction zone, further invert the latching nature of the fault plane in this region, and deeply explore the relationship between the coupling state and the zone where ruptures in earthquakes, then providing reference for regional earthquake disaster assessment.
 
 # Staff
 
